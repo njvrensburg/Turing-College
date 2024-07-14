@@ -33,6 +33,11 @@
         <a href="#Review_STL_1">🡥</a><br>
     </td>
   </tr>
+  <tr>
+    <td colspan="4" align="right">
+      Project Grade: <b>97</b>%
+    </td>
+  </tr>
 </table>
 <h3 align="center">Feedback</h3>
 <a id="Review_STL_2">
