@@ -18,6 +18,11 @@
       Review Score: <b>91</b>% 
         <a href="#Review_STL">🡥</a><br>
     </td>
+    <tr>
+    <td colspan="2" align="right">
+      Project Grade: <b>91</b>%
+    </td>
+  </tr>
   </tr>
 </table>
 <h3 align="center">Feedback</h3>
