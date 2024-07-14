@@ -19,7 +19,7 @@
     </td>
     <td>
       ⭐ 
-      <a href=https://github.com/njvrensburg/Turing-College/blob/main/0.%20Capstone/0.%20Task%20Instructions.ipynburl>
+      <a href="https://github.com/njvrensburg/Turing-College/tree/main/0.%20Capstone">
         Capstone Project
       </a>
     </td>
@@ -36,7 +36,7 @@
     </td>
       <td>
         ⭐ 
-        <a href=https://github.com/njvrensburg/Turing-College/tree/main/1.%20Communicating%20Analysis%20Results/1.%20Presentations%20%26%20Soft%20Skillsurl>
+        <a href="https://github.com/njvrensburg/Turing-College/tree/main/1.%20Communicating%20Analysis%20Results/1.%20Presentations%20%26%20Soft%20Skills">
           Presentations & Soft Skills
         </a>
     </td>
