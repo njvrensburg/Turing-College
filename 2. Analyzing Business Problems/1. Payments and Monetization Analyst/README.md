@@ -30,7 +30,7 @@
       <b>Ignitis Group</b>
         <img alt="Ignitis Group logo" src="https://media.licdn.com/dms/image/D4E0BAQFk12Dl7vKzpw/company-logo_100_100/0/1692856126848/ignitis_grupe_logo?e=1729123200&v=beta&t=La2s-PkA0SCdbgIRwdgIp9U053Y7nV8AwO77OlUriew" width="44px" align="right"><br>
       Review Score: <b>100</b>% 
-        <a href="#Review_STL_1">🡥</a><br>
+        <a href="#Review_Learner">🡥</a><br>
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
     <img alt="Payments and Monetization Analyst, Review 2" width="70%" src="https://raw.githubusercontent.com/njvrensburg/Turing-College/main/Project%20Grades/2.%20ABP-01-STL--Deividas_Mata%C4%8Di%C5%ABnas.png">
   </p>
 </a>
-<a id="Review_STL_1">
+<a id="Review_Learner">
   <p align="center">
     <img alt="Payments and Monetization Analyst, Review 1" width="70%" src="https://raw.githubusercontent.com/njvrensburg/Turing-College/main/Project%20Grades/2.%20ABP-01-Learner--Viktorija_Bieline.png">
   </p>
