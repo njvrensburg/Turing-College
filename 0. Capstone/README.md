@@ -77,26 +77,26 @@ This report is primarily intended for AWS's <b>Executive Leadership</b> and key 
 <br>
 <h3 align="center">Dashboard</h3>
 
-Built using Google's <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Looker Studio" width="18" height="18"/> <b>Looker Studio</b>. <a href="https://lookerstudio.google.com/reporting/b4b877b4-6944-4def-9352-a088029cb075"> 🡵</a><br>
+Built using Google's <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Looker Studio" width="18" height="18"/> <b>Looker Studio</b>. <a href="https://lookerstudio.google.com/u/0/reporting/fb7af352-6c18-44d3-a884-06cf8a399a58"> 🡵</a><br>
 
 <table style="width: 100%;">
   <tr>
     <td>
-			<a href="https://lookerstudio.google.com/reporting/b4b877b4-6944-4def-9352-a088029cb075/page/p_46lp7a9dbd">
+			<a href="https://lookerstudio.google.com/u/0/reporting/fb7af352-6c18-44d3-a884-06cf8a399a58/page/p_46lp7a9dbd">
     	<b>Business Overview</b> 🡵 </a>
     </td>
     <td>
-			<a href="https://lookerstudio.google.com/reporting/b4b877b4-6944-4def-9352-a088029cb075/page/p_qhzj6pxb7c">
+			<a href="https://lookerstudio.google.com/u/0/reporting/fb7af352-6c18-44d3-a884-06cf8a399a58/page/p_qhzj6pxb7c">
     	<b>Timepart Income Analysis</b> 🡵 </a>
     </td>
     <td>
-			<a href="https://lookerstudio.google.com/reporting/b4b877b4-6944-4def-9352-a088029cb075/page/p_6k5ssffg7c">
+			<a href="https://lookerstudio.google.com/u/0/reporting/fb7af352-6c18-44d3-a884-06cf8a399a58/page/p_6k5ssffg7c">
     	<b>RFM Analysis</b> 🡵 </a>
     </td>
   </tr>
 	<tr>
 		<td> 
-			<a href="https://lookerstudio.google.com/reporting/b4b877b4-6944-4def-9352-a088029cb075/page/p_46lp7a9dbd">
+			<a href="https://lookerstudio.google.com/u/0/reporting/fb7af352-6c18-44d3-a884-06cf8a399a58/page/p_46lp7a9dbd">
 				<img align="top" src="https://drive.google.com/uc?export=view&id=16FK9hgsu4jtq5pZVlxLClwAjURKH4TkY" alt="Casptone: Dashboard - page 1: Business Overview">
 			</a>
 			<br>
@@ -105,7 +105,7 @@ Built using Google's <img src="https://www.gstatic.com/analytics-lego/svg/ic_loo
       </a>
 		</td>
 		<td> 
-			<a href="https://lookerstudio.google.com/reporting/b4b877b4-6944-4def-9352-a088029cb075/page/p_qhzj6pxb7c">
+			<a href="https://lookerstudio.google.com/u/0/reporting/fb7af352-6c18-44d3-a884-06cf8a399a58/page/p_qhzj6pxb7c">
 				<img align="top" src="https://drive.google.com/uc?export=view&id=1kwpWW7DdGX_0NKYvOMFyXXbsP8Iv3sEW" alt="Casptone: Dashboard - page 2: Timepart Income Analysis">
 			</a>
 			<br>
@@ -114,7 +114,7 @@ Built using Google's <img src="https://www.gstatic.com/analytics-lego/svg/ic_loo
       </a>
 		</td>
 		<td> 
-			<a href="https://lookerstudio.google.com/reporting/b4b877b4-6944-4def-9352-a088029cb075/page/p_6k5ssffg7c">
+			<a href="https://lookerstudio.google.com/u/0/reporting/fb7af352-6c18-44d3-a884-06cf8a399a58/page/p_6k5ssffg7c">
 				<img align="top" src="https://drive.google.com/uc?export=view&id=1404S-ko5dWEHk6NCxzPiOTl520xe-nn1" alt="Casptone: Dashboard - page 3: RFM Analysis">
 			</a>
 			<br>
