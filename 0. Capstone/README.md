@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td>
-    <img alt="Kristina Grigaitytė" src="https://media.licdn.com/dms/image/D4D03AQHcyFdDhvtHrQ/profile-displayphoto-shrink_200_200/0/1710578347986?e=1726704000&v=beta&t=N_xxLmkwbmTbf0sJ_pF_gZjI7Nqf7vyV9lEjkyF7LsE" width="68px" align="center">
+    <img alt="Kristina Grigaitytė" src="https://media.licdn.com/dms/image/v2/D4D03AQHcyFdDhvtHrQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710578347986?e=1736985600&v=beta&t=U0UM7dU_FFYAFMCcKgulYPtURsA-ZB0zAL1vo82Cazw" width="68px" align="center">
     </td>    
     <td>
       <b>STL</b> |
@@ -15,12 +15,12 @@
           Kristina <b>Grigaitytė</b> 🡵</a><br>
       <i>Data Analyst</i> | 
       <b>Nord Security</b>
-        <img alt="Nord Security logo" src="https://media.licdn.com/dms/image/C4E0BAQE7Fs46KFoosw/company-logo_100_100/0/1630627290687/nordsecurity_logo?e=1729123200&v=beta&t=cOFkeNGfGD7aUUmwK2eiAdmTq-xGrItURJbAiavRha0" width="44px" align="right"><br>
+        <img alt="Nord Security logo" src="https://media.licdn.com/dms/image/v2/C4E0BAQE7Fs46KFoosw/company-logo_100_100/company-logo_100_100/0/1630627290687/nordsecurity_logo?e=1739404800&v=beta&t=zAaefLvGFyYxkD1rbt4RovMwq4_O5c3Gs2lEfq8ggOg" width="44px" align="right"><br>
       Review Score: <b>100</b>% 
         <a href="#Review_STL_2">🡥</a><br>
     </td>
     <td>
-      <img  alt="Ajibola Ladoja" src="https://media.licdn.com/dms/image/C5603AQF_w43QrGKsmg/profile-displayphoto-shrink_400_400/0/1584809355912?e=1726704000&v=beta&t=vrOD229ZXj0j_kq6n5u4AWwAzGkhWAVA54LMFzYL9l4" width="68px" align="center">
+      <img  alt="Ajibola Ladoja" src="https://media.licdn.com/dms/image/v2/C5603AQF_w43QrGKsmg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1584809355912?e=1736985600&v=beta&t=NTBsPZn8jepuc7iNTHwLNYEWeT2RUBDwfYab5NditeU" width="68px" align="center">
     </td>
     <td>
       <b>STL</b> |
@@ -29,7 +29,7 @@
           Ajibola <b>Ladoja</b> 🡵</a><br>
       <i>Manager, People Analytics</i> | 
       <b>Western Union</b>
-        <img alt="Western Union logo" src="https://media.licdn.com/dms/image/C4E0BAQFX-w3SJJhaOw/company-logo_100_100/0/1673279981250/western_union_logo?e=1729123200&v=beta&t=v3F21bzk98vQVAxjqE6vFpvzk0JbsS0BoYrieJZrNKE" width="44px" align="right"><br>
+        <img alt="Western Union logo" src="https://media.licdn.com/dms/image/v2/C4E0BAQFX-w3SJJhaOw/company-logo_100_100/company-logo_100_100/0/1673279981250/western_union_logo?e=1739404800&v=beta&t=D1Uxkn9BRvXK94wrfrnTZ9GgMZVFQMwFgAfSljTzRIo" width="44px" align="right"><br>
       Review Score: <b>94</b>% 
         <a href="#Review_STL_1">🡥</a><br>
     </td>
